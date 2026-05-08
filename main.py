@@ -102,5 +102,7 @@ def banking_system():
         else:
             print("Invalid choice!")
 
-# Run the system
-banking_system()
+# Main Function
+if __name__ == "__main__":
+    # Run the system
+    banking_system()
